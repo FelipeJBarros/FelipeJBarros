@@ -1,15 +1,12 @@
 <h1>Oi 👋, eu sou o Felipe!</h1>
 <h3>Futuro engenheiro de computação e amante de tecnologia :computer:</h3>
 
-- 🌱 Embarcando no mundo web e estou aprendendo **PHP, JavaScript e CSS**
+- 🌱 Embarcando no mundo web e trabalhando com **React e Next.js**
 - 📚 Tenho interesse em **desenvolvimento de jogos e sistemas web**
 - 📄 Conheça um pouco mais sobre minhas experiências [aqui](http://lattes.cnpq.br/3764720929868377)
 - ⚡ Fun fact: Meu animal favorito é o urso 🐻
 
 <p align="center"><em>"Escrever linhas de código é arte, encontrar bugs faz parte"</em></p>
-
-<!--<hr><h4>Estudando cada dia mais pra deixar de ser 'Javeiro'</h4>-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeJBarros)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <h4>Entre em contato comigo:</h4>
 
