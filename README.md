@@ -1,5 +1,5 @@
 <h1>Oi 👋, eu sou o Felipe!</h1>
-<h3>Futuro engenheiro de computação e amante de tecnologia :computer:</h3>
+<h3>Dev. Front-end, Futuro engenheiro de computação e amante de tecnologia :computer:</h3>
 
 - 🌱 Embarcando no mundo web e trabalhando com **React e Next.js**
 - 📚 Tenho interesse em **desenvolvimento de jogos e sistemas web**
