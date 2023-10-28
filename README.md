@@ -1,11 +1,9 @@
 <h1>Oi 👋, eu sou o Felipe!</h1>
 <h3>Dev. Front-end, Futuro engenheiro de computação e amante de tecnologia :computer:</h3>
 
-- 🌱 Embarcando no mundo web e trabalhando com **React e Next.js**
-- 📚 Tenho interesse em **desenvolvimento de jogos e sistemas web**
-- 📄 Conheça um pouco mais sobre minhas experiências [aqui](http://lattes.cnpq.br/3764720929868377)
-- ⚡ Fun fact: Meu animal favorito é o urso 🐻
-
+- 🌱 Desenvolvedor javascript, atualmente trabalhando com **React, React Native, Next.js e NestJS**
+- 📚 Tenho interesse em **desenvolvimento sistemas web e mobile, UI/UX**
+- 
 <p align="center"><em>"Escrever linhas de código é arte, encontrar bugs faz parte"</em></p>
 
 <h4>Entre em contato comigo:</h4>
