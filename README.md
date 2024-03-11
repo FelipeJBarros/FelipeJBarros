@@ -1,5 +1,5 @@
 # Oi 👋, eu sou o Felipe!
-## Desenvolvedor Front-end, engenheiro de computação e amante de tecnologia :computer:
+## Desenvolvedor fullstack e engenheiro de computação :computer:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
