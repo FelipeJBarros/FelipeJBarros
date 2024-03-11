@@ -1,11 +1,13 @@
 # Oi 👋, eu sou o Felipe!
 ## Desenvolvedor Front-end, engenheiro de computação e amante de tecnologia :computer:
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="left">
+
 Trabalho com desenvolvimento desde 2021, com experiência de três anos no desenvolvimento frontend, com destaque para projetos envolvendo Javascript, React e React Native. Agora, estou avançando em minha carreira, ampliando meus conhecimentos em backend com tecnologias como Java Spring e explorando projetos em AngularJS no âmbito do frontend.
 
-Sempre me dediquei a explorar tanto a teória quanto a técnica da engenharia de software. Essa busca me permitiu aprimorar minhas habilidades em frontend e backend, adquirindo habilidades em:
-
----------
+Sempre me dediquei a explorar tanto a teória quanto a técnica da engenharia de software. Essa busca me permitiu aprimorar minhas habilidades em frontend e backend, adquirindo habilidades em:  
+</p>
 
 ### Linguagens
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
